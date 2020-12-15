@@ -1,0 +1,89 @@
+
+
+Main Form - updateUITable()java.text.ParseException: Unparseable date: "1425142800000"
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+Main Form - getTextEmployee():java.text.ParseException: Unparseable date: ""
+
+MainForm - Find by ID button:com.microsoft.sqlserver.jdbc.SQLServerException: The column name empID is not valid.
+
+MainForm - Find by ID button:com.microsoft.sqlserver.jdbc.SQLServerException: The column name empID is not valid.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'tblEmployess'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: There are fewer columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: String or binary data would be truncated in table 'EmployeeManagement.dbo.tblEmployee', column 'empID'. Truncated value: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: String or binary data would be truncated in table 'EmployeeManagement.dbo.tblEmployee', column 'empID'. Truncated value: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: String or binary data would be truncated in table 'EmployeeManagement.dbo.tblEmployee', column 'address'. Truncated value: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'.
+
+MainForm - saveEmployee():com.microsoft.sqlserver.jdbc.SQLServerException: String or binary data would be truncated in table 'EmployeeManagement.dbo.tblEmployee', column 'address'. Truncated value: 'qwewdqwodwoqdjowqdoq'.
+
+MainForm - updateEmployee:com.microsoft.sqlserver.jdbc.SQLServerException: String or binary data would be truncated in table 'EmployeeManagement.dbo.tblEmployee', column 'phone'. Truncated value: '01234567895555552222222222222222222222333333333333'.
