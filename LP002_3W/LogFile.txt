@@ -1,0 +1,22 @@
+-----------------------------Logger---------------------------------------------
+
+Main Form - checkRegexDefense() :java.lang.NumberFormatException: For input string: "aaaa"
+
+Main Form - checkRegexDefense() :java.lang.NumberFormatException: For input string: "qew"
+
+Main Form - checkRegexDefense() :java.lang.NumberFormatException: For input string: "qqwd"
+
+Main Form - updateUIArmor():java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+Main Form - updateUIArmor():java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+Main Form - updateUIArmor():java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+Main Form - updateUIArmor():java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
+
+Main Form - updateUIArmor():java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused: connect
